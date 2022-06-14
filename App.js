@@ -125,30 +125,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'space-between',
   },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-    position: 'absolute',
-    backgroundColor: colors.BACKGROUND_GRAY,
-  },
   srollStyle: {
     paddingHorizontal: 18,
     marginTop: -70,
   },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-  },
-  highlight: {
-    fontWeight: '700',
-  },
   addItem: {
-    width: '100%',
     flexDirection: 'row',
     justifyContent: 'flex-start',
     alignItems: 'center',
